@@ -6,8 +6,7 @@
 \alias{ussie-package}
 \title{ussie: Working with European football data}
 \description{
-This is a demo package to create a sample package to work with 
-          European football data.
+This is a demo package to create a sample package to work with European football data.
 }
 \seealso{
 Useful links:
