@@ -1,10 +1,11 @@
 Package: ussie
-Title: What the Package Does (One Line, Title Case)
+Title: Working with European football data
 Version: 0.0.0.9000
 Authors@R: 
     person("Siavash", "Soleymani", , "siavash.bs@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This is a deo package to create a sample package to work with 
+          European football data.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
