@@ -16,6 +16,7 @@ Imports:
     engsoccerdata,
     magrittr,
     rlang,
+    testthat,
     tibble,
     usethis,
     withr
@@ -23,8 +24,7 @@ Suggests:
     conflicted,
     knitr,
     rmarkdown,
-    roxygen2,
-    testthat (>= 3.0.0)
+    roxygen2
 VignetteBuilder: 
     knitr
 Config/testthat/edition: 3
