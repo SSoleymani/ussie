@@ -16,7 +16,8 @@ Imports:
     engsoccerdata,
     magrittr,
     rlang,
-    tibble
+    tibble,
+    withr
 Suggests: 
     conflicted,
     knitr,

@@ -6,6 +6,7 @@
 # validate_cols works
 
     Data frame needs column: `foo`
-    i Has columns: `mpg`, `cyl`, `disp`, `hp`, `drat`, `wt`, `qsec`, `vs`, `am`, `gear`, and `carb`
+    i Has columns: `mpg`, `cyl`, `disp`, `hp`, `drat`, `wt`, `qsec`, `vs`, `am`,
+      `gear`, and `carb`
     x Missing column: `foo`
 
