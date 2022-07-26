@@ -18,9 +18,10 @@ Imports:
     magrittr,
     dplyr,
     tibble,
-    rlang
-Suggests: 
+    rlang,
     engsoccerdata,
+    cli
+Suggests: 
     knitr,
     rmarkdown,
     testthat (>= 3.0.0)
