@@ -3,6 +3,7 @@
 
 ## usethis namespace: start
 #' @importFrom magrittr %>%
+#' @importFrom rlang :=
 #' @importFrom rlang .data
 #' @importFrom rlang .env
 #' @importFrom tibble tibble
