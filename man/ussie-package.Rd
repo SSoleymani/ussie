@@ -12,6 +12,7 @@ This is a demo package to create a sample package to work with European football
 Useful links:
 \itemize{
   \item \url{https://github.com/SSoleymani/ussie}
+  \item \url{https://ssoleymani.github.io/ussie/}
   \item Report bugs at \url{https://github.com/SSoleymani/ussie/issues}
 }
 

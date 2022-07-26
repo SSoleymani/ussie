@@ -3,4 +3,6 @@
 export("%>%")
 export(uss_make_matches)
 importFrom(magrittr,"%>%")
+importFrom(rlang,.data)
+importFrom(rlang,.env)
 importFrom(tibble,tibble)

@@ -17,7 +17,8 @@ BugReports: https://github.com/SSoleymani/ussie/issues
 Imports: 
     magrittr,
     dplyr,
-    tibble
+    tibble,
+    rlang
 Suggests: 
     engsoccerdata,
     knitr,
