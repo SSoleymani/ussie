@@ -1,3 +1,5 @@
+usethis::use_pipe()
+
 local_warn_partial_match <- function(.local_envir = parent.frame()) {
 
   # This is a trick to get around an anomaly in these options.
