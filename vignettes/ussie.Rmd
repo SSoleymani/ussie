@@ -26,3 +26,8 @@ spain = uss_make_matches(engsoccerdata::spain, "Spain")
 glimpse(spain)
 ```
 
+We can add filtering conditions
+```{r uss_get_matches_filter}
+uss_get_matches("italy", goals_home ==2)
+```
+
