@@ -17,6 +17,7 @@ Imports:
     magrittr,
     rlang,
     tibble,
+    usethis,
     withr
 Suggests: 
     conflicted,
